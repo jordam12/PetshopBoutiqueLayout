@@ -3,6 +3,7 @@
     margin: 0;
     font-family: sans-serif;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 .secao-banner{
@@ -111,6 +112,7 @@
 }
 
 .secao-redes-sociais{
+    width: 100vw;
     padding: 120px 80px;
     background-color: #3c184e;
     text-align: center;
